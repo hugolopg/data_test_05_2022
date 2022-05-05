@@ -10,3 +10,5 @@ De posse desses dados, você escolheu a linguagem Python e deve elaborar um rela
 Fica a seu critério escolher quais programas e bibliotecas irá utilizar para analisar e elaborar o relatório e o que irá apresentar, mas é preciso que seja em Python e você deve documentar e apresentar todos os softwares, bibliotecas e linhas de código utilizados.
 
 Por fim, para fácil manuseio e escalabilidade dentro da empresa, você deve disponibilizar a sua análise através do Github.
+
+Você terá um total de 3h para realizar essa atividade, tendo de completá-la e enviá-la até as 11:30. Boa sorte!
